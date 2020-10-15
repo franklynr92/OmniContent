@@ -19,3 +19,8 @@ html {
 }
 
 /*centering container in a container containception */
+
+header { 
+    background-image: url("resources/Omnifood Contents/hero.jpg");
+    height: 100vh
+}
