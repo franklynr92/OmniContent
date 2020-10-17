@@ -120,6 +120,7 @@ header {
 
 .main-nav li a:link,
 .main-nav li a:visited {
+    padding: 6px 0;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
