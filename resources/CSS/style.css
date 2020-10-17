@@ -40,7 +40,7 @@ h1 {
 /*---------BUTTONS ------*
 /*---------LINK---and---VISITED------*/
 .btn:link,
-.btn:active {
+.btn:visited {
     display: inline-block;
     padding: 10px 30px;
     font-weight: 300;
