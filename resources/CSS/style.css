@@ -37,7 +37,8 @@ h1 {
     letter-spacing: 1px;
     word-spacing: 4px;
 }
-/*---------BUTTONS ------*/
+/*---------BUTTONS ------*
+/*---------LINK---and---VISITED------*/
 .btn:link,
 .btn:active {
     display: inline-block;
