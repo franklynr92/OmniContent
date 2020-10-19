@@ -119,12 +119,12 @@ header {
 .main-nav li {
     padding: 50px;
     display: inline-block;
-    margin-left: 35px;
+    margin-left: 40px;
 }
 
 .main-nav li a:link,
 .main-nav li a:visited {
-    padding: 6px 0;
+    padding: 8px 0;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
