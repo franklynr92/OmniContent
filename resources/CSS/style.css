@@ -43,6 +43,12 @@ h1 {
     font-size: 240%;
     word-spacing: 4px;
 }
+
+h2 {
+    font-size: 180%;
+    word-spacing: 2px;
+    text-align: center;
+}
 /*---------BUTTONS ------*
 /*---------LINK---and---VISITED------*/
 .btn:link,
